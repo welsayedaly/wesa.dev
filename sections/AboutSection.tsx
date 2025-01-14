@@ -139,7 +139,7 @@ const AboutSection: React.FC = () => {
                     width={1700}
                     height={1790}
                     priority
-                    alt="Sat Naing profile picture"
+                    alt="Walid El Sayed Aly profile picture"
                     className="rounded-md"
                   />
                 </div>
@@ -169,11 +169,9 @@ const AboutSection: React.FC = () => {
             </div>
 
             <p className="col-start-1 col-end-3 row-start-4 row-end-6 lg:row-start-1 lg:row-end-2 lg:col-start-3 lg:col-end-6 lg:ml-8 lg:mt-auto about-intro">
-              With 4+ years of comprehensive experience in web application
-              development, I have polished my skills in both frontend and
-              backend development. In addition to my hands-on experience in web
-              development, my education has also played a critical role in
-              providing a strong foundation for my career.
+              With 15+ years of comprehensive experience in IT and software development, With my expertise in DevOps cloud architecture across AWS and Azure, 
+              as well as pipeline migration, I bring a unique combination of technical skills and creative problem-solving to every project. 
+              I have strong backend development experience in Java, Go, NodeJS, and Express, allowing me to design and implement robust, scalable solutions for diverse business needs.
             </p>
 
             <div

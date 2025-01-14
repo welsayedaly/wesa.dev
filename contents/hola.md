@@ -1,5 +1,5 @@
 ---
-title: This is just a testing
+title: Walid is just a testing
 description: This is just an OG description
 excerpt:
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
@@ -9,7 +9,7 @@ excerpt:
 datetime: 2020-06-17T05:35:07.000+00:00
 featured: false
 category: Random
-author: Sat Naing
+author: Walid El Sayed Aly
 type: article
 coverImage: https://res.cloudinary.com/wesa/image/upload/v1647791837/walid/tip-calculator_mkdj8a.png
 coverImageAlt: Tip calculator website on a laptop and a mobile device

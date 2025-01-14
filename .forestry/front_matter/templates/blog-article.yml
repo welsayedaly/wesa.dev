@@ -95,11 +95,11 @@ fields:
   description: Tags for the post
 - name: author
   type: select
-  default: Sat Naing
+  default: Walid El Sayed Aly
   config:
     required: true
     options:
-    - Sat Naing
+    - Walid El Sayed Aly
     source:
       type: simple
       section: 

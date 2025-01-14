@@ -7,7 +7,7 @@ tags:
   - TailwindCSS
   - HeadlessCMS
   - Blog
-author: Sat Naing
+author: Walid El Sayed Aly
 type: article
 coverImage: https://res.cloudinary.com/noezectz/image/upload/v1653050141/walid/blog_at_cafe_ei1wf4.jpg
 coverImageAlt: Macbook at a cafe
@@ -61,7 +61,7 @@ The following are certain features of my portfolio and blog
 
 The entire project is developed with SEO focus in mind. I've used proper meta tags, descriptions and heading alignments. This website is now indexed by Google.
 
-> You can search this website on google by using keywords like 'sat naing dev'
+> You can search this website on google by using keywords like 'Walid El Sayed Aly dev'
 
 ![searching walid.dev on google](https://res.cloudinary.com/noezectz/image/upload/v1648231400/walid/walid-on-google_asflq6.png "walid.dev is indexed")
 

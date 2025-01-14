@@ -13,7 +13,7 @@ tags:
   - NextJS
   - ContextAPI
   - TailwindCSS
-author: Sat Naing
+author: Walid El Sayed Aly
 coverImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/walid/haru-fashion-og_qotvvg.png
 coverImageAlt: Haru Fashion website on a laptop and a mobile device
 coverImageWidth: "1200"
@@ -21,7 +21,7 @@ coverImageHeight: "700"
 ogImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/walid/haru-fashion-og_qotvvg.png
 ogImageAlt: Haru Fashion
 type: article
-language: "Myanmar"
+language: "German"
 ---
 
 ကျွန်တော် Haru Fashion ဆိုတဲ့ e-commerce application ကိုဘယ်လိုရေးခဲ့လဲဆိုတာကို ဒီ post မှာ ရေးသွားမှာဖြစ်ပါတယ်။

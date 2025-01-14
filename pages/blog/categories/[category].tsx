@@ -37,7 +37,7 @@ const Blog: NextPage<Props> = ({ posts, category }) => {
   }, []);
   return (
     <>
-      <AppHead title="Blog - Sat Naing" />
+      <AppHead title="Blog - Walid El Sayed Aly" />
       {/* <Loader>
         <span className="capitalize">{unslugify(category)}</span>
       </Loader> */}

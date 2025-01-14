@@ -102,8 +102,8 @@ const HeroSection: React.FC = () => {
               height={1374}
               priority
               id="character-illustration"
-              aria-label="Sat Naing character illustration levitating with a Macbook"
-              alt="Sat Naing character illustration"
+              aria-label="Walid El Sayed Aly character illustration levitating with a Macbook"
+              alt="Walid El Sayed Aly character illustration"
             />
           </div>
           <div className="laptop absolute top-14 sm:top-16 left-0 scale-[.41] xs:scale-[.45] pointer-events-none">
@@ -123,25 +123,24 @@ const HeroSection: React.FC = () => {
           Hi my name is
         </span>
         <div className="overflow-hidden">
-          <h1 className="text-animation text-4xl md:text-5xl lg:text-7xl md:my-2 font-semibold my-1">
-            Sat Naing
+          <h1 className="text-animation text-3xl md:text-4xl lg:text-6xl md:my-2 font-semibold my-1">
+            Walid El Sayed Aly
           </h1>
         </div>
         <div className="overflow-hidden">
-          <span className="text-animation text-2xl md:text-3xl lg:text-5xl block md:my-3 text-marrsgreen dark:text-carrigreen font-medium">
-            A Full-stack Developer
+          <span className="text-animation text-1xl md:text-3xl lg:text-3xl block md:my-2 text-marrsgreen dark:text-carrigreen font-medium">
+            Freelance Software Architect 
+          </span>
+          <span className="text-animation text-1xl md:text-3xl lg:text-2xl block md:my-2 text-marrsgreen dark:text-carrigreen font-medium">
+            DevOps & Cloud Consultant
+          </span>
+          <span className="text-animation text-1xl md:text-3xl lg:text-2xl block md:my-1 text-marrsgreen dark:text-carrigreen font-medium">
+            Expert in On-Premises & Custom Solutions
           </span>
         </div>
         <div className="mt-2 my-4 md:mb-8">
           <p className="mb-1">
-            I am a Full-Stack Developer with a passion for delivering
-            exceptional results.
-          </p>
-          <p>
-            With my expertise in React and NextJS on the frontend, and PHP,
-            CodeIgniter, NodeJS, and Express on the backend, I bring a unique
-            combination of technical skills and creative problem-solving to
-            every project I work on.
+          As an experienced freelance Software Architect and DevOps & Cloud Consultant, I specialize in developing scalable Java backend applications and AWS cloud solutions. I lead the design and conceptualization of complex IT systems, applying my deep expertise to deliver tailored on-premises and cloud-based solutions that meet the unique needs of my clients.
           </p>
         </div>
         <LinkButton href={`mailto:${process.env.NEXT_PUBLIC_EMAIL}`}>

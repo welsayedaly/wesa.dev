@@ -29,7 +29,7 @@ My portfolio & blog website developed with Next.JS(SSG) and TypeScript. Tailwind
 
 <p align="center">
   <a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fwalid.dev%2F&form_factor=desktop">
-    <img width="710" alt="Sat Naing Portfolio Website Lighthouse Score" src="public/lighthouse-result.svg">
+    <img width="710" alt="Walid El Sayed Aly Portfolio Website Lighthouse Score" src="public/lighthouse-result.svg">
   <a>
 </p>
 
