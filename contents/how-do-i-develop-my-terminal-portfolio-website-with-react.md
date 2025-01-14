@@ -10,7 +10,7 @@ tags:
   - TypeScript
 author: Sat Naing
 type: article
-coverImage: https://res.cloudinary.com/noezectz/image/upload/v1654754125/SatNaing/terminal-screenshot_gu3kkc.png
+coverImage: https://res.cloudinary.com/noezectz/image/upload/v1654754125/walid/terminal-screenshot_gu3kkc.png
 coverImageAlt: Screenshot of Terminal Portfolio Website
 title: How Do I Develop My Terminal Portfolio Website with React
 description:
@@ -86,5 +86,5 @@ This is a really fun project, and one special part of this project is I had to f
 
 ## Project Links
 
-- Website: [https://terminal.satnaing.dev/](https://terminal.satnaing.dev/ "https://terminal.satnaing.dev/")
-- Repo: [https://github.com/satnaing/terminal-portfolio](https://github.com/satnaing/terminal-portfolio "https://github.com/satnaing/terminal-portfolio")
+- Website: [https://terminal.walid.dev/](https://terminal.walid.dev/ "https://terminal.walid.dev/")
+- Repo: [https://github.com/walid/terminal-portfolio](https://github.com/walid/terminal-portfolio "https://github.com/walid/terminal-portfolio")

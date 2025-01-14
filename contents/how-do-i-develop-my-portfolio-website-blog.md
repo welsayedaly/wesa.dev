@@ -9,7 +9,7 @@ tags:
   - Blog
 author: Sat Naing
 type: article
-coverImage: https://res.cloudinary.com/noezectz/image/upload/v1653050141/SatNaing/blog_at_cafe_ei1wf4.jpg
+coverImage: https://res.cloudinary.com/noezectz/image/upload/v1653050141/walid/blog_at_cafe_ei1wf4.jpg
 coverImageAlt: Macbook at a cafe
 title: How Do I Develop My Portfolio Website & Blog
 description:
@@ -29,7 +29,7 @@ My experience about developing my first portfolio website and a blog using NextJ
 
 ## Motivation
 
-I've been always thinking about launching my own website with my custom domain name (**satnaing.dev**) since my college student life. But that never happened until this project. I've done several projects and works about web application development but I didn't make an effort to do this.
+I've been always thinking about launching my own website with my custom domain name (**walid.dev**) since my college student life. But that never happened until this project. I've done several projects and works about web application development but I didn't make an effort to do this.
 
 So, "what about blog?" you may ask. Yeah, blog also has been in my project list for some time. I always wanted to make a blog project using some of the latest technologies. However, I've been busy with my works and other projects so that blog project has never been started.
 
@@ -63,11 +63,11 @@ The entire project is developed with SEO focus in mind. I've used proper meta ta
 
 > You can search this website on google by using keywords like 'sat naing dev'
 
-![searching satnaing.dev on google](https://res.cloudinary.com/noezectz/image/upload/v1648231400/SatNaing/satnaing-on-google_asflq6.png "satnaing.dev is indexed")
+![searching walid.dev on google](https://res.cloudinary.com/noezectz/image/upload/v1648231400/walid/walid-on-google_asflq6.png "walid.dev is indexed")
 
 Moreover, this website will be displayed well when shared to social media due to properly used meta tags.
 
-![satnaing.dev card layout when shared to Facebook](https://res.cloudinary.com/noezectz/image/upload/v1653106955/SatNaing/satnaing-dev-share-on-facebook_1_zjoehx.png "Card layout when shared to Facebook")
+![walid.dev card layout when shared to Facebook](https://res.cloudinary.com/noezectz/image/upload/v1653106955/walid/walid-dev-share-on-facebook_1_zjoehx.png "Card layout when shared to Facebook")
 
 ### Dynamic Sitemap
 
@@ -89,13 +89,13 @@ All blog contents can be searched by search box. Moreover, contents can be filte
 
 This website got very good performance and lighthouse score thanks to proper development and best practices. Here's the lighthouse score for this website.
 
-![satnaing.dev Lighthouse score](https://user-images.githubusercontent.com/53733092/159957822-7082e459-11e9-4616-8f1e-49d0881f7cbb.png "satnaing.dev Lighthouse score")
+![walid.dev Lighthouse score](https://user-images.githubusercontent.com/53733092/159957822-7082e459-11e9-4616-8f1e-49d0881f7cbb.png "walid.dev Lighthouse score")
 
 ### Animations
 
 Initially I used [Framer Motion](https://www.framer.com/motion/ "Framer Motion") to add animations and micro interactions for this website. However, when I tried to use some complex animations and parallax effects, I found it inconvenient to integrate with Framer Motion (Maybe I'm not very good at and used to working with it). Hence, I decided to use [GSAP](https://greensock.com/ "GSAP Animation Library") for all of my animations. It is one of the most popular animation library and it is capable of doing complex and advanced animations. You can see animations and micro interactions on pretty much every page of this website.
 
-![animations at satnaing.dev](https://res.cloudinary.com/noezectz/image/upload/v1653108324/SatNaing/ezgif.com-gif-maker_2_hehtlm.gif "satnaing.dev website")
+![animations at walid.dev](https://res.cloudinary.com/noezectz/image/upload/v1653108324/walid/ezgif.com-gif-maker_2_hehtlm.gif "walid.dev website")
 
 ## Outro
 
@@ -105,6 +105,6 @@ And... last but not least, I would like to say 'thanks' to my friend [Swann Fevi
 
 ## Project Links
 
-- Website: [https://satnaing.dev/](https://satnaing.dev/ "https://satnaing.dev/")
-- Blog: [https://satnaing.dev/blog](https://satnaing.dev/blog "https://satnaing.dev/blog")
-- Repo: [https://github.com/satnaing/my-portfolio](https://github.com/satnaing/my-portfolio "https://github.com/satnaing/my-portfolio")
+- Website: [https://walid.dev/](https://walid.dev/ "https://walid.dev/")
+- Blog: [https://walid.dev/blog](https://walid.dev/blog "https://walid.dev/blog")
+- Repo: [https://github.com/walid/my-portfolio](https://github.com/walid/my-portfolio "https://github.com/walid/my-portfolio")

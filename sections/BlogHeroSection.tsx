@@ -55,7 +55,7 @@ const BlogHeroSection: React.FC = () => {
           </p>
           <p className="intro-3">
             You can follow me on my social media and{" "}
-            <a href="https://github.com/satnaing" className="link">
+            <a href="https://github.com/walid" className="link">
               Github account.
             </a>
             <svg
